@@ -31,7 +31,9 @@ Name:            Student ID:        Emails:
 Pan Zhang         180108960        zhan8960@mylaurier.ca
 Aodi Zheng        183041160        zhen1160@mylaurier.ca
 
-Credits     
+Credits   
+![bbf2741db3a00c09e61cbdc2c66329d](https://user-images.githubusercontent.com/79903268/127743959-50381e16-89e1-4e0f-83b3-a4c4d799468c.png)
+We are very familiar with each other, and we are accustomed to using more convenient social application to communicate and change the source code. In addition, github is a bit strange to both of  us. Therefore, we only uploaded the final version of our program here on the last day.
 
 
 license to use your code:
